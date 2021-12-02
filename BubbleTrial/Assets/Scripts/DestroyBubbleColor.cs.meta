@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 461a79ed3ac4efa45a88e6742efc55f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textColor: {instanceID: 0}
+  - textScore: {fileID: 7513690156952019594, guid: 2f91ad4bdf0ff5e419ddf71de55b1beb,
+      type: 3}
+  - rb: {instanceID: 0}
+  - deathParticles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
