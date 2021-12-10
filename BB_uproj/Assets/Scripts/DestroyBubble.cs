@@ -10,7 +10,7 @@ public class DestroyBubble : MonoBehaviour
     
     private void Start()
     {
-        rb = GetComponent<Rigidbody2D>();           //Random Rigidbody that I am still unsure of why it's hear but removing it seems to make the code angry.
+        rb = GetComponent<Rigidbody2D>();           
         
     }
 
@@ -18,7 +18,7 @@ public class DestroyBubble : MonoBehaviour
 
     [SerializeField] private Transform textScore;   //Variable for the texScore 
 
-    [SerializeField] private Rigidbody2D rb;        //Removing this seems to cause the system to be upset. Paul; I am actually finding little reason to keep this in the code. Let me know if I am wrong...
+    [SerializeField] private Rigidbody2D rb;      
 
     public ParticleSystem deathParticles;
 
